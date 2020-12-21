@@ -1,1 +1,1 @@
-<img src="hobbes.gif" width="75">
+<img src="spaceman-spiff.jpg" height="175">
